@@ -1,0 +1,13 @@
+@media ( max-width: 1306px) {
+	.adjestContent{
+		margin-left:25% !important;
+	}
+}
+
+
+@media (min-width: 1349px) {
+	.adjestContent{
+		margin-left:18% !important;
+	}
+	
+}
